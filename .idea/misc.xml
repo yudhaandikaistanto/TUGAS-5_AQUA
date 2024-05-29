@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidProject/AndroidAqua/AquaMB/app/src/main/res/drawable/button1.xml" value="0.15625" />
+        <entry key="..\:/AndroidProject/AndroidAqua/AquaMB/app/src/main/res/drawable/buttonshape.xml" value="0.15989583333333332" />
+        <entry key="..\:/AndroidProject/AndroidAqua/AquaMB/app/src/main/res/drawable/ic_24.xml" value="0.15989583333333332" />
+        <entry key="..\:/AndroidProject/AndroidAqua/AquaMB/app/src/main/res/drawable/ic_picture6.xml" value="0.28615384615384615" />
+        <entry key="..\:/AndroidProject/AndroidAqua/AquaMB/app/src/main/res/layout/activity_main.xml" value="0.3665338645418327" />
+        <entry key="..\:/AndroidProject/AndroidAqua/AquaMB/app/src/main/res/layout/activity_mainhome2.xml" value="0.176" />
+        <entry key="..\:/MercuBuana/Diktat_Kuliah/ModulAndroid/Android 20202021/tutorial1/MyApplication/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/Rafif/AndroidStudioProjects/AquaMB/app/src/main/res/drawable/arrow_1.xml" value="0.121875" />
+        <entry key="..\:/Users/Rafif/AndroidStudioProjects/AquaMB/app/src/main/res/drawable/button1.xml" value="0.19166666666666668" />
+        <entry key="..\:/Users/Rafif/AndroidStudioProjects/AquaMB/app/src/main/res/drawable/ic_picture6.xml" value="0.121875" />
+        <entry key="..\:/Users/Rafif/AndroidStudioProjects/AquaMB/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/Rafif/AndroidStudioProjects/AquaMB/app/src/main/res/layout/activity_mainhome2.xml" value="0.22" />
+        <entry key="..\:/Users/Rafif/AndroidStudioProjects/Aqualogin666666/app/src/main/res/drawable/arrow_back.xml" value="0.1" />
+        <entry key="..\:/Users/Rafif/AndroidStudioProjects/Aqualogin666666/app/src/main/res/drawable/button1.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/Rafif/AndroidStudioProjects/Aqualogin666666/app/src/main/res/drawable/frame_3664.xml" value="0.16140350877192983" />
+        <entry key="..\:/Users/Rafif/AndroidStudioProjects/Aqualogin666666/app/src/main/res/drawable/frame_3668.xml" value="0.17037037037037037" />
+        <entry key="..\:/Users/Rafif/AndroidStudioProjects/Aqualogin666666/app/src/main/res/drawable/ic_baseline_visibility_24.xml" value="0.17037037037037037" />
+        <entry key="..\:/Users/Rafif/AndroidStudioProjects/Aqualogin666666/app/src/main/res/drawable/ic_visibility_off.xml" value="0.17037037037037037" />
+        <entry key="..\:/Users/Rafif/AndroidStudioProjects/Aqualogin666666/app/src/main/res/drawable/ic_visibility_on.xml" value="0.17037037037037037" />
+        <entry key="..\:/Users/Rafif/AndroidStudioProjects/Aqualogin666666/app/src/main/res/drawable/rectangle_11.xml" value="0.17037037037037037" />
+        <entry key="..\:/Users/Rafif/AndroidStudioProjects/Aqualogin666666/app/src/main/res/drawable/rectangle_4.xml" value="0.14375" />
+        <entry key="..\:/Users/Rafif/AndroidStudioProjects/Aqualogin666666/app/src/main/res/drawable/rectangle_494.xml" value="0.19166666666666668" />
+        <entry key="..\:/Users/Rafif/AndroidStudioProjects/Aqualogin666666/app/src/main/res/drawable/sabsasa.xml" value="0.17037037037037037" />
+        <entry key="..\:/Users/Rafif/AndroidStudioProjects/Aqualogin666666/app/src/main/res/font/font.xml" value="0.20572916666666666" />
+        <entry key="..\:/Users/Rafif/AndroidStudioProjects/Aqualogin666666/app/src/main/res/layout/activity_main.xml" value="0.14666666666666667" />
+        <entry key="..\:/Users/Rafif/AndroidStudioProjects/Aqualogin666666/app/src/main/res/layout/activity_main_menu.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/Rafif/AndroidStudioProjects/Aqualogin666666/app/src/main/res/layout/activity_mainhome2.xml" value="0.22" />
+        <entry key="..\:/Users/Rafif/AndroidStudioProjects/Aqualogin666666/app/src/main/res/layout/activity_page_login.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/Rafif/AndroidStudioProjects/Aqualogin666666/app/src/main/res/layout/activity_page_register.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/Rafif/AndroidStudioProjects/Aqualogin666666/app/src/main/res/layout/activity_redeemv1.xml" value="0.6" />
+        <entry key="..\:/Users/Rafif/AndroidStudioProjects/Aqualogin666666/app/src/main/res/layout/activity_redeemv2.xml" value="0.22" />
+        <entry key="..\:/Users/Rafif/AndroidStudioProjects/Aqualogin666666/app/src/main/res/layout/activity_scan1.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/Rafif/AndroidStudioProjects/Aqualogin666666/app/src/main/res/layout/activity_scan2.xml" value="0.4466666666666667" />
+        <entry key="..\:/Users/Rafif/AndroidStudioProjects/Aqualogin666666/app/src/main/res/layout/activity_scan_ktp.xml" value="0.1" />
+        <entry key="..\:/Users/Rafif/AndroidStudioProjects/Aqualogin666666/app/src/main/res/layout/activity_scan_tutup_botol.xml" value="0.22" />
+        <entry key="..\:/Users/Rafif/AndroidStudioProjects/Aqualogin666666/app/src/main/res/layout/activity_scantutupbotol.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/Rafif/AndroidStudioProjects/Aqualogin666666/app/src/main/res/layout/activity_selamat_klaim_tutup_botol.xml" value="0.22" />
+        <entry key="..\:/Users/Rafif/AndroidStudioProjects/Aqualogin666666/app/src/main/res/layout/activity_selamat_undian.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/Rafif/AndroidStudioProjects/Aqualogin666666/app/src/main/res/layout/activity_side_bar_nav.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/Rafif/AndroidStudioProjects/Aqualogin666666/app/src/main/res/layout/activity_spinwheel1.xml" value="0.22" />
+        <entry key="..\:/Users/Rafif/AndroidStudioProjects/Aqualogin666666/app/src/main/res/layout/activity_spinwheel2.xml" value="0.22" />
+        <entry key="..\:/Users/Rafif/AndroidStudioProjects/Aqualogin666666/app/src/main/res/layout/sidebar.xml" value="0.17552083333333332" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
